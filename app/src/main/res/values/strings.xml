@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppExamen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="acceder">ACCEDER</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+    <string name="introduce_tus_apellidos">Introduce tus apellidos</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="bienvenidos_a_la_app_de_medias">Bienvenidos a la APP de Medias</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="introducir_notas">Introducir Notas</string>
+    <string name="inicio">Inicio</string>
+    <string name="listado_de_notas">Listado de Notas</string>
+    <string name="nota_media">Nota Media</string>
+    <string name="salir">Salir</string>
+    <string name="nombre">Jose Manuel</string>
+    <string name="apellidos">Cozar Martinez</string>
+
+    <string-array name="items_spinner">
+        <item>HOMBRE</item>
+        <item>MUJER</item>
+    </string-array>
+</resources>

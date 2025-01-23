@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/inicioFragment"
+        android:title="@string/inicio"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/nav_introducir"
+        android:title="@string/introducir_notas"
+        android:icon="@drawable/ic_introducir"/>
+
+    <item
+        android:id="@+id/nav_listar"
+        android:title="@string/listado_de_notas"
+        android:icon="@drawable/ic_listar"/>
+
+    <item
+        android:id="@+id/nav_nota"
+        android:title="@string/nota_media"
+        android:icon="@drawable/ic_notas"/>
+
+</menu>
